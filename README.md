@@ -1,3 +1,5 @@
+<h1>Here are the Screenshots of Outputs</h1>
+
 ## 1. Implement a function that checks whether a given string is a palindrome or not.
 
   <a>
